@@ -32,7 +32,7 @@
     <allow-navigation href="data:*" />
     <allow-navigation href="*" />
 
-    <allow-intent href="*" />
+    <allow-intent href="http://mrcogworld.com" />
 
     <preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="orientation"      value="default" />
