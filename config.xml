@@ -5,10 +5,10 @@
         id        = "com.mrcogworld.cgw"
         versionCode = "100"
         version   = "1.0.0">
-    <name>Moodle Mobile</name>
+    <name>MrCOG Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        MrCOG World official app
     </description>
 
     <author href="http://mrcogworld.com" email="info@mrcogworld.com">
