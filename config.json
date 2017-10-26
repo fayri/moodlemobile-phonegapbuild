@@ -11,8 +11,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "cgw",
-    "siteurl": "",
+    "siteurl": "mrcogworld.com",
     "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "false",
+    "forcedefaultlanguage": "true",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
